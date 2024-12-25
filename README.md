@@ -1,7 +1,9 @@
 ```markdown
 # Vidpirate - He Steals Videos From Any Social Media  
 
-Vidpirate is an open-source video downloading tool that allows you to download videos from Facebook, YouTube, Instagram, LinkedIn, TikTok, Twitter, Threads, and over 1000+ sources. Paste the link, select your format, and hit download. Enjoy your favorite clips offline, anytime, anywhere—for free, forever.  
+Vidpirate is an open-source video downloading tool that allows you to download videos
+from Facebook, YouTube, Instagram, LinkedIn, TikTok, Twitter, Threads, and over 1000+ sources. Paste the link, select your format, and hit download.
+Enjoy your favorite clips offline, anytime, anywhere—for free, forever.  
 
 ## 🚀 Features  
 - **Download from 1000+ Platforms**: Supports a wide range of sources for seamless video downloading.  
