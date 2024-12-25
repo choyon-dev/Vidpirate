@@ -9,17 +9,16 @@ Enjoy your favorite clips offline, anytime, anywhere—for free, forever.
 - **Download from 1000+ Platforms**: Supports a wide range of sources for seamless video downloading.  
 - **Multiple Formats**: Choose from various resolutions and formats to fit your preferences.  
 - **Completely Free**: No subscriptions, no hidden costs.  
-- **Easy to Use**: Paste the URL, choose a format, and download.  
-
----
+- **Easy to Use**: Paste the URL, choose a format, and download.
+``` 
 
 ## 🛠️ Installation  
 
 1. **Clone the Repository**  
-   ```bash  
+   bash  
    git clone https://github.com/yourusername/vidpirate.git  
    cd vidpirate  
-   ```  
+   ```
 
 2. **Install Dependencies**  
    ```bash  
