@@ -1,5 +1,3 @@
-Here’s a structured `README.md` tailored for your GitHub repository:  
-
 ```markdown
 # Vidpirate - He Steals Videos From Any Social Media  
 
