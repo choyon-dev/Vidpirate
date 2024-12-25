@@ -42,7 +42,9 @@ Enjoy your favorite clips offline, anytime, anywhere—for free, forever.
 4. Hit "Download" to save the video offline.
 
 🤝 Contributing  
-Contributions are welcome! If you'd like to improve Vidpirate, follow these steps:  
+
+Contributions are welcome! 
+If you'd like to improve Vidpirate, follow these steps:  
 
 1. Fork the repository.  
 2. Create a new branch:  
@@ -62,10 +64,10 @@ Contributions are welcome! If you'd like to improve Vidpirate, follow these step
 ---
 
 📜 License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. Please take a look at the [LICENSE](LICENSE) file for details.
 
 🗒️ Disclaimer  
-Vidpirate is intended for personal use only. Please ensure you respect copyright laws and only download content you are permitted to use.  
+Vidpirate is intended for personal use only. Please ensure you respect copyright laws and only download content you can use.  
 
 📧 Contact  
 For support or inquiries, reach out to:  
